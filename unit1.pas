@@ -144,6 +144,7 @@ begin
      paid := 0;
      price := 15;
      tick := 0;
+     timer.Enabled := false;
      SetState;
 end;
 
