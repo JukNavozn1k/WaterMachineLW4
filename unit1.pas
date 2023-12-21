@@ -143,6 +143,7 @@ begin
      state := 0;
      paid := 0;
      price := 15;
+     tick := 0;
      SetState;
 end;
 
